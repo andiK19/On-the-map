@@ -1,7 +1,7 @@
 //
 //  Responses.swift
-//  On_the_Map_AK_V1.3
-//
+//  On the map
+//  Udacity Nanodegree Project
 //  Created by Andreas Kremling on 21.09.22.
 //
 
